@@ -1,0 +1,12 @@
+#!/bin/bash
+export MYUSERNAME="SID"
+export MYPASSWORD="123456"
+STARTOFSCRIPT=`date`
+ENDOFSCRIPT=`date`
+
+echo $MYUSERNAME
+echo $MYPASSWORD
+echo $STARTOFSCRIPT
+echo $ENDOFSCRIPT
+
+
